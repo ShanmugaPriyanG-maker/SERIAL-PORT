@@ -49,13 +49,10 @@ MOV SBUF, A
 ### OUTPUT:
 
 ### (i) Serial Port Transfer a Single Character
-
-<img width="886" height="362" alt="MPMC SERIAL " src="https://github.com/user-attachments/assets/d9b0a5b5-c2f7-4fbb-9c5c-49a950bb749e" />
+<img width="886" height="324" alt="501049657-d9b0a5b5-c2f7-4fbb-9c5c-49a950bb749e" src="https://github.com/user-attachments/assets/fefc9283-8761-43be-b64b-623e677acd0d" />
 
 ### (ii) Serial Port to Transfer a Message
-
-<img width="886" height="362" alt="MPMC serial port" src="https://github.com/user-attachments/assets/8c607832-376a-4ade-b604-a2e0d1e98cc7" />
-
+<img width="886" height="324" alt="Screenshot 2025-11-09 203716" src="https://github.com/user-attachments/assets/f186f77f-1897-4933-9d31-82d9887469f6" />
 
 ### RESULT:
 Thus the Serial transfer of Single Byte / Character using 8051 KEIL was done and shown the output.
